@@ -1,5 +1,5 @@
 # Web3 
-![Demo](web3.mov)
+![Demo](./web3.mov)
 
 
 Running the project & Deploying
